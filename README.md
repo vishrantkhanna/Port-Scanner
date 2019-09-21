@@ -1,2 +1,1 @@
-# Python3PentestingTools
-A group of Pentesting tools developed in Python 3
+A python script that finds out which ports might be open on a server. Written in Python 3.
